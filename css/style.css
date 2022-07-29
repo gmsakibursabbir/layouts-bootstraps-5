@@ -3,6 +3,10 @@ body {
   background-color: #f4f1de;
 }
 
+.top {
+  margin: 25px 0;
+}
+
 .header,
 .hero,
 .body,
@@ -20,6 +24,18 @@ body {
   color: #3d405b;
   font-size: 30px;
   font-weight: 600;
+}
+
+h1 {
+  font-weight: 700;
+  color: #3d405b;
+  text-align: center;
+}
+
+p {
+  font-weight: 500;
+  color: #3d405b;
+  text-align: center;
 }
 
 .terra-cotta {
